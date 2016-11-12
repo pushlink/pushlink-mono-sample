@@ -6,10 +6,10 @@ Clone and run *(tested with Xamarin Studio)*
 
 ## Updating to a new version
 
-1. Delete old jar and dll
-2. Download new jar and dll and paste it side-by-side 
-3. **Rename** the dll to PushLinkMono.dll (needed)
-4. Update the new jar reference into the project
+1. Download the latest `PushLinkMono-x.x.x.dll` and paste it in the PushLinkMonoSample folder. (side-by-side the old PushLinkMono.dll)
+2. Delete the old `PushLinkMono.dll`
+3. **Rename** `PushLinkMono-x.x.x.dll` to `PushLinkMono.dll` (needed)
+4. Change the `yourApiKey` and `yourDeviceId` in `MainActivity.cs`
 
 ## Code Sample
 
