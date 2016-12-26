@@ -6,7 +6,7 @@ Clone and run *(tested with Xamarin Studio)*
 
 ## Updating to a new version
 
-1. Download the latest `PushLinkMono-x.x.x.dll` and paste it in the PushLinkMonoSample folder. (side-by-side the old PushLinkMono.dll)
+1. [Download](https://www.pushlink.com/docs.xhtml#monodroid) the latest `PushLinkMono-x.x.x.dll` and paste it in the PushLinkMonoSample folder. (side-by-side the old PushLinkMono.dll)
 2. Delete the old `PushLinkMono.dll`
 3. **Rename** `PushLinkMono-x.x.x.dll` to `PushLinkMono.dll` (needed)
 4. Change the `yourApiKey` and `yourDeviceId` in `MainActivity.cs`
