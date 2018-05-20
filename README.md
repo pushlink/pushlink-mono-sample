@@ -3,7 +3,7 @@
 ## Usage
 
 1. Clone
-2. Replace the `yourApiKey` and `yourDeviceId` in `MainActivity.cs`
+2. Replace the `yourApiKey` and `yourDeviceId` in the `MainActivity.cs`
 3. Run
 
 ## Updating to a new version
